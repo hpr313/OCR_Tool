@@ -1,0 +1,16 @@
+C:\Users\Perry Huang\source\repos\TessarctTest\TessarctTest\bin\Debug\x86\leptonica-1.82.0.dll
+C:\Users\Perry Huang\source\repos\TessarctTest\TessarctTest\bin\Debug\x86\tesseract50.dll
+C:\Users\Perry Huang\source\repos\TessarctTest\TessarctTest\bin\Debug\x64\leptonica-1.82.0.dll
+C:\Users\Perry Huang\source\repos\TessarctTest\TessarctTest\bin\Debug\x64\tesseract50.dll
+C:\Users\Perry Huang\source\repos\TessarctTest\TessarctTest\bin\Debug\TessarctTest.exe.config
+C:\Users\Perry Huang\source\repos\TessarctTest\TessarctTest\bin\Debug\TessarctTest.exe
+C:\Users\Perry Huang\source\repos\TessarctTest\TessarctTest\bin\Debug\TessarctTest.pdb
+C:\Users\Perry Huang\source\repos\TessarctTest\TessarctTest\bin\Debug\Tesseract.dll
+C:\Users\Perry Huang\source\repos\TessarctTest\TessarctTest\obj\Debug\TessarctTest.csproj.AssemblyReference.cache
+C:\Users\Perry Huang\source\repos\TessarctTest\TessarctTest\obj\Debug\TessarctTest.Form1.resources
+C:\Users\Perry Huang\source\repos\TessarctTest\TessarctTest\obj\Debug\TessarctTest.Properties.Resources.resources
+C:\Users\Perry Huang\source\repos\TessarctTest\TessarctTest\obj\Debug\TessarctTest.csproj.GenerateResource.cache
+C:\Users\Perry Huang\source\repos\TessarctTest\TessarctTest\obj\Debug\TessarctTest.csproj.CoreCompileInputs.cache
+C:\Users\Perry Huang\source\repos\TessarctTest\TessarctTest\obj\Debug\TessarctTest.exe
+C:\Users\Perry Huang\source\repos\TessarctTest\TessarctTest\obj\Debug\TessarctTest.pdb
+C:\Users\Perry Huang\source\repos\TessarctTest\TessarctTest\obj\Debug\Tessarct.C3E27F05.Up2Date
