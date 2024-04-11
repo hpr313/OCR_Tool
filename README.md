@@ -8,7 +8,7 @@ STEP 1. Download [Tesseract](https://tesseract-ocr.github.io/tessdoc/Downloads.h
 
 STEP 2. Install Tesseract under C:\Program File. Alternatively, changing the path of Tesseract engine is also available as below in Line 19 of Form1.cs.
      
-    var engine = new TesseractEngine("InputYourPathHere", "eng");
+    var engine = new TesseractEngine("PutYourPathHere", "eng");
 
 STEP 3. Open the TessarctTest.exe
 
